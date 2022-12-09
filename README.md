@@ -1,2 +1,2 @@
 # API-t-hunter
-API for t-hunter in Ultima Online
+API for t-hunter in Ultima Online on Outlands
